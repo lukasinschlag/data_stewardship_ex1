@@ -8,12 +8,12 @@ This experiment is used to show the correlation between the yearly climate value
 **Input data credits**
 
 Climate data
-> [https://www.data.gv.at/katalog/dataset/e6d471ec-f983-4e9a-b435-957cfc1bb48c](https://www.data.gv.at/katalog/dataset/e6d471ec-f983-4e9a-b435-957cfc1bb48c)
-> Creative Commons Namensnennung 4.0 International
-> Datenquelle: Stadt Wien – https://data.wien.gv.at
+> [https://www.data.gv.at/katalog/dataset/e6d471ec-f983-4e9a-b435-957cfc1bb48c](https://www.data.gv.at/katalog/dataset/e6d471ec-f983-4e9a-b435-957cfc1bb48c)  
+> Creative Commons Namensnennung 4.0 International  
+> Datenquelle: Stadt Wien – https://data.wien.gv.at  
 
 Energy resources
 
-> [http://statcube.at/statcube/opendatabase?id=deebilanz](http://statcube.at/statcube/opendatabase?id=deebilanz)
-> STATcube - Statistische Datenbank von STATISTIK AUSTRIA
-> [http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml](http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml)
+> [http://statcube.at/statcube/opendatabase?id=deebilanz](http://statcube.at/statcube/opendatabase?id=deebilanz)  
+> STATcube - Statistische Datenbank von STATISTIK AUSTRIA  
+> [http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml](http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml)  
