@@ -19,6 +19,18 @@ Make sure that the working directory is properly configured, by setting in the R
 
 Afterwards, the code can be executed, which transforms the input data, genereates the output data and plots the graphs automatically.
 
+The **data generated** is made up of:  
+
+|Value|Data type|Description|
+|--|--|--|
+|Year|Date (yyyy)|The year of the observation |
+|C_ICE_DAYS|Numeric|The number of days where ice was present|
+|C_SUMMER_DAYS|Numeric|The number of days defined as summer days (>24°C)|
+|C_MEAN_TEMP|Numeric|The average temperature in degree celsius|
+|E_RENEWABLES|Numeric|The amount of renewable resources used in peta Joul|
+|E_OIL|Numeric|The amount of oil resources used in peta Joul|
+|E_GAS|Numeric|The amount of gas resources used in peta Joul|
+
 
 **Input data credits**
 
