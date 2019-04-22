@@ -17,3 +17,6 @@ Energy resources
 > [http://statcube.at/statcube/opendatabase?id=deebilanz](http://statcube.at/statcube/opendatabase?id=deebilanz)  
 > STATcube - Statistische Datenbank von STATISTIK AUSTRIA  
 > [http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml](http://statcube.at/statistik.at/ext/statcube/jsf/terms.xhtml)  
+
+
+<meta name='keywords' content='fair data science, austria, climate data, energy resources'>
