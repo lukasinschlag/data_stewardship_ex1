@@ -63,7 +63,7 @@ colnames(data_c) <- c("YEAR","C_ICE_DAYS", "C_SUMMER_DAYS", "C_MEAN_TEMP", "E_RE
 #####################################
 
 # Write to csv
-write.csv(data_c, file = "output.csv", row.names=FALSE)
+write.csv(data_c, file = "data/output.csv", row.names=FALSE)
 
 #####################################
 #           CORRELATION             #
