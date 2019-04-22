@@ -1,0 +1,41 @@
+STATcube;;;;;;;
+;;;;;;;
+Energiebilanzen Österreich ab 1970 (Q);;;;;;;
+Zeit und Bilanzaggregat nach Werte;;;;;;;
+Zählt: ERNEUERBARE in TJ, ÖL in TJ, GAS in TJ;;;;;;;
+;;;;;;;
+;Werte;ERNEUERBARE in TJ;ERNEUERBARE in TJ - Anmerkungen;ÖL in TJ;ÖL in TJ - Anmerkungen;GAS in TJ;GAS in TJ - Anmerkungen
+Zeit;Bilanzaggregat;;;;;;
+2016;Inländ. Erzeugung v. Rohenergie;408473,83;;33660,73;;40406,99;
+2015;Inländ. Erzeugung v. Rohenergie;393496,49;;37174,42;;43205,46;
+2014;Inländ. Erzeugung v. Rohenergie;398669,36;;41475,35;;45265,48;
+2013;Inländ. Erzeugung v. Rohenergie;396178,18;;37075,92;;49827,66;
+2012;Inländ. Erzeugung v. Rohenergie;384933,16;;39053,36;;61945,86;
+2011;Inländ. Erzeugung v. Rohenergie;338248,49;;36764,85;;57637,66;
+2010;Inländ. Erzeugung v. Rohenergie;359529,45;;46311,51;;58494,58;
+2009;Inländ. Erzeugung v. Rohenergie;346113,86;;47878,71;;56267,51;
+2008;Inländ. Erzeugung v. Rohenergie;336910,75;;43754,27;;51686,13;
+2007;Inländ. Erzeugung v. Rohenergie;322108,54;;39855,59;;62682,35;
+2006;Inländ. Erzeugung v. Rohenergie;290279,74;;42439,96;;61681,79;
+2005;Inländ. Erzeugung v. Rohenergie;293448,19;;39766,69;;55719,96;
+2004;Inländ. Erzeugung v. Rohenergie;279330,75;;45225,21;;66991,83;
+2003;Inländ. Erzeugung v. Rohenergie;258908,01;;51381,22;;69219,83;
+2002;Inländ. Erzeugung v. Rohenergie;273737,23;;42938,79;;66710,99;
+2001;Inländ. Erzeugung v. Rohenergie;282838,03;;43016,2;;62194,46;
+2000;Inländ. Erzeugung v. Rohenergie;278910,66;;45692,81;;64825,79;
+1992;Inländ. Erzeugung v. Rohenergie;226465,67;;51841;;51722;
+1993;Inländ. Erzeugung v. Rohenergie;238013,43;;50724;;53559;
+1994;Inländ. Erzeugung v. Rohenergie;232417,66;;48710;;48776;
+1995;Inländ. Erzeugung v. Rohenergie;245421,36;;45802;;53336;
+1996;Inländ. Erzeugung v. Rohenergie;242623,3;;44433;;53701;
+1997;Inländ. Erzeugung v. Rohenergie;252056,37;;43687;;51404;
+1998;Inländ. Erzeugung v. Rohenergie;251515,26;;44522;;56440;
+1999;Inländ. Erzeugung v. Rohenergie;281709,26;;45319,14;;62524,23;
+;;;;;;;
+;;;;;;;
+Symbol;Beschreibung;;;;;;
+Energiebilanzen Österreich ab 1970;".) Gegenstand der Statistik: Die Energiebilanzen sind eine zusammenfassende tabellarische Darstellung von  Aufkommen und Einsatz von Energieträgern (ET) sowie Energieströmen. Sie wird  für jeweils ein Kalenderjahr auf Bundeslandebene ab dem Berichtsjahr 1988 und  auf Österreichebene (Summe aller Bundesländer) erstellt. Als Zeitreihe besteht  die Österreichbilanz ab 1970.  .) Rechtsgrundlage: Verträge mit dem BMNT und den Bundesländern, Bundesgesetz über die Bundesstatistik  (Bundesstatistikgesetz 2000) idgF, Verordnung (EG) Nr. 1099/2008 des Europäischen  Parlaments und des Rates vom 22. Oktober 2008 über die Energiestatistik.  .) Aktualisierung: Zeitreihenaktualisierung: im Dezember des auf das Berichtsjahr folgenden Kalenderjahres Letzte Aktualisierung des Würfels: [05.12.2018]  .) Bearbeitungsnachweis:  Direktion Raumwirtschaft - Energie und Umwelt Dr. Wolfgang Bittermann, Tel. +43 (1) 71128 - 7315, E-Mail: wolfgang.bittermann@statistik.gv.at  Dr. Manfred Gollner, Tel. +43 (1) 71128 - 7573, E-Mail: manfred.gollner@statistik.gv.at  Weitere Metadaten: http://www.statistik.at/web_de/wcmsprod/groups/gd/documents/stddok/023997.pdf#pagemode=bookmarks  .) Sonstige Hinweise:  Rundungsdifferenzen nicht ausgeglichen. ";;;;;;
+Q;STATcube – Statistische Datenbank von STATISTIK AUSTRIA;;;;;;
+;;;;;;;
+;;;;;;;
+(c) Copyright Statistics Austria;;;;;;;
