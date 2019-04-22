@@ -1,6 +1,8 @@
 
 # Data stewardship: FAIR Data Science
 
+[![DOI](https://zenodo.org/badge/182786051.svg)](https://zenodo.org/badge/latestdoi/182786051)
+
 **Experiment Overview**
 
 This experiment is used to show the correlation between the yearly climate values and the used energy resources, in the years 1992-2016. The idea is that the climate has an impact on the amount of energy needed. The input data for this experiments is taken for the climate values from data.gv [1] and for the energy resources from Statistik Austria [2].
